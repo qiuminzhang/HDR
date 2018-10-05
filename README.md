@@ -1,3 +1,8 @@
 # HDR
-Original Post: [HDR image generator](https://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/)
+Original Post: [High Dynamic Range (HDR) Imaging using OpenCV (C++/Python)](https://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/)
+
+[Graph]()
+
+[Encapsulation file]()
+
 
